@@ -1,5 +1,6 @@
-h1 align="center">Hi 👋, I'm Vansh Bhatt</h1>
+<h1 align="center">Hi 👋, I'm Vansh Bhatt</h1>
 <h3 align="center">A passionate Web developer from India</h3>
+<img width="300" align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sardonyx.in%2Fsardonyx-software-development.html&psig=AOvVaw3HN4DLeOpWN6DdSREaxsPA&ust=1719479368772000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLCd7Pv1-IYDFQAAAAAdAAAAABAQ" alt="coding">
 
 - 🔭 I’m currently working on [File Storage System using Hybrid Cryptography](https://github.com/vanshbhatt12)
 
